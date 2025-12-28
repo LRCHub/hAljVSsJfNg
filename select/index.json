@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "パッと咲いて散って灰に",
+  "base_artist": "Creepy Nuts",
+  "createdAt": "2025-12-28T18:14:43.269022Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "パッと咲いて散って灰に",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/01_パッと咲いて散って灰に_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "パッと咲いて散って灰に - Patto Saite Chitte Haini",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/02_パッと咲いて散って灰に_-_Patto_Saite_Chitte_Haini_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "パッと咲いて散って灰に",
+      "artist": "CreepyNuts",
+      "has_synced": false,
+      "path": "select/pl_01_パッと咲いて散って灰に_CreepyNuts.txt"
+    }
+  ]
+}
